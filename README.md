@@ -3,7 +3,7 @@
 
 I'm Alex and I'm located in Melbourne, Australia.
 
-I'm an active part of the **Unraid Community**, and you'll notice a lot of my contributions are oriented towards that.
+I'm an (in)active part of the **Unraid Community**, and you'll notice a lot of my contributions are oriented towards that.
 
 I have a passing familiarity with lots of languages, including `Python`, `Swift`, `CSS`, `HTML5`, `PHP`, `Ruby` and I've written far more shell scripts than I'd care to admit. I'm a `Linux` and `Mac` user that mostly lives in Terminal, but I've occasionally played around with `Windows`.
 
