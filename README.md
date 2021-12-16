@@ -13,6 +13,15 @@ I've tinkered quite a bit with 3D printers, and you'll notice some of my reposit
 
 If you see a repo here that has an open license, feel free to fork it and edit it to your heart's content. If you see a mistake somewhere or need some help, feel free to open an issue or submit a pull request.
 
+### Showcase
+
+The following is a list of my favourite published projects:
+
+* [lnxd/docker-phoenixminer](https://github.com/lnxd/docker-phoenixminer)
+* [lnxd/docker-binancenotifier](https://github.com/lnxd/docker-binancenotifier)
+* [lnxd/docker-xmrig](https://github.com/lnxd/docker-xmrig)
+* [lnxd/docker-lnxd/docker-latencytest](https://github.com/lnxd/lnxd/docker-latencytest)
+
 ### Donations
 
 If my work has impacted your life in a positive way and you'd like to buy me a coffee (or a hundred), that'd be much appreciated!
