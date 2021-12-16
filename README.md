@@ -20,7 +20,7 @@ The following is a list of my favourite published projects:
 * [lnxd/docker-phoenixminer](https://github.com/lnxd/docker-phoenixminer)
 * [lnxd/docker-binancenotifier](https://github.com/lnxd/docker-binancenotifier)
 * [lnxd/docker-xmrig](https://github.com/lnxd/docker-xmrig)
-* [lnxd/lnxd/docker-latencytest](https://github.com/lnxd/docker-latencytest)
+* [lnxd/docker-latencytest](https://github.com/lnxd/docker-latencytest)
 
 ### Donations
 
