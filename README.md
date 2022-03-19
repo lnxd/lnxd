@@ -1,3 +1,4 @@
+![Banner - Coding the Future](https://github.com/lnxd/lnxd/raw/main/banner-codingthefuture.png)
 
 ### Hi there  👋
 
@@ -26,7 +27,7 @@ The following is a list of my favourite published projects:
 
 If my work has impacted your life in a positive way and you'd like to buy me a coffee (or a hundred), that'd be much appreciated!
 
-#### PayPal: 
+#### PayPal:
 [![Donate](https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=donations.lnxd%40gmail.com&currency_code=AUD)
 #### Crypto:
 * **ETH**: `e037C6245910EbBbA720514835d31B385D76927f`
