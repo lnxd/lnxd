@@ -23,15 +23,4 @@ The following is a list of my favourite published projects:
 * [lnxd/docker-xmrig](https://github.com/lnxd/docker-xmrig)
 * [lnxd/docker-latencytest](https://github.com/lnxd/docker-latencytest)
 
-### Donations
-
-If my work has impacted your life in a positive way and you'd like to buy me a coffee (or a hundred), that'd be much appreciated!
-
-#### PayPal:
-[![Donate](https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=donations.lnxd%40gmail.com&currency_code=AUD)
-#### Crypto:
-* **ETH**: `e037C6245910EbBbA720514835d31B385D76927f`
-* **BTC**: `39ugg2Ww3spss9zzahpue5HqWqffrPwbsX`
-* **XMR**: `87k8Z87xUJc9tU8cDh6Cj6BaMudzWfT2s2GnmNPpmHE16hwpzgN9urgMm4MfpcFgBVKDtAnTKYhAihQdQ5hfZWthJyjxXnK`
-
 **Thank you!**
