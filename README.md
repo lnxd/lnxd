@@ -8,7 +8,7 @@ I'm an (in)active part of the **Unraid Community**, and you'll notice a lot of m
 
 I have a passing familiarity with lots of languages, including `Python`, `Javascript`, `CSS`, `HTML5`, `PHP`, and `Ruby`, and I've written far more `Bash` scripts than I'd care to admit. I'm a `Linux` and `Mac` user that mostly lives in Terminal, but I've occasionally played around with `Windows`.
 
-I'm a big fan of **Docker**, and most of my work is optionally containerised.
+I'm a big fan of `Docker`, and most of my work is optionally containerised.
 
 I've tinkered with 3D printers, and you'll notice some of my repositories pertain to that.
 
