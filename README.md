@@ -1,5 +1,3 @@
-![Banner - Coding the Future](https://github.com/lnxd/lnxd/raw/main/banner-codingthefuture.png)
-
 ### Hi there  👋
 
 I'm Alex, and I'm located in Melbourne, Australia.
