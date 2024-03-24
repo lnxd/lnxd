@@ -2,7 +2,7 @@
 
 I'm Alex, and I'm located in Melbourne, Australia.
 
-I used to work at [Apple](https://apple.com), and now I run a startup called [Codea](https://codea.id).
+I used to work at [Apple](https://apple.com), and now I work for a local tech company called [Orion](https://github.com/orion-pty-ltd)
 
 I have a passing familiarity with lots of languages, including `Python`, `Javascript`, `CSS`, `HTML5`, `PHP`, and `Ruby`, and I've written far more `Bash` scripts than I'd care to admit. I'm a `Linux` and `Mac` user that mostly lives in Terminal, but I've occasionally played around with `Windows`.
 
