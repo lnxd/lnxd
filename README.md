@@ -8,19 +8,8 @@ I have a passing familiarity with lots of languages, including `Python`, `Javasc
 
 I'm a big fan of `Docker`, and most of my work is optionally containerised.
 
-I've tinkered with 3D printers, and you'll notice some of my repositories pertain to that.
+I've tinkered with microcontrollers and 3D printers, and you'll notice some of my repositories pertain to that.
 
 I'm always looking for ways to push the boundaries of what's possible, and I'm constantly striving to positively impact the world through code.
 
-If you see a repo here with an open license, feel free to fork it and edit it to your heart's content. If you see a mistake somewhere or need some help, feel free to open an issue or submit a pull request.
-
-### Showcase
-
-The following is a list of my favourite published projects:
-
-* [lnxd/docker-phoenixminer](https://github.com/lnxd/docker-phoenixminer)
-* [lnxd/docker-binancenotifier](https://github.com/lnxd/docker-binancenotifier)
-* [lnxd/docker-xmrig](https://github.com/lnxd/docker-xmrig)
-* [lnxd/docker-latencytest](https://github.com/lnxd/docker-latencytest)
-
-**Thank you!**
+If you see a repo here with an open license, feel free to fork it. If you see a mistake somewhere or need some help, feel free to open an issue or submit a pull request.
