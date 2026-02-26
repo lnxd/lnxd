@@ -1,4 +1,5 @@
 I'm Alex, a software developer in Melbourne, Australia.
+Previously at Apple.
 
 Python, Bash, Docker, and whatever else gets it done.
 Proxmox and k3s run everything.
