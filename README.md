@@ -3,7 +3,7 @@ I'm Alex, a software developer in Melbourne, Australia.
 Python, Bash, Docker, and whatever else gets it done.
 Proxmox and k3s run everything.
 
-Most of my time goes into an ML-driven forex trading system.
+Most of my time goes into an ML-driven trading system.
 The public repos here are a mix of infrastructure, embedded, and tools built along the way.
 
 **Public projects:**
