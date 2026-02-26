@@ -1,15 +1,17 @@
-### Hi there  👋
+I'm Alex, a software developer in Melbourne, Australia.
 
-I'm Alex, and I'm located in Melbourne, Australia.
+Python, Bash, Docker, and whatever else gets it done.
+Proxmox and k3s run everything.
 
-I used to work at [Apple](https://apple.com), and now I work for a local tech company called [Orion](https://github.com/orion-pty-ltd)
+Most of my time goes into an ML-driven forex trading system.
+The public repos here are a mix of infrastructure, embedded, and tools built along the way.
 
-I have a passing familiarity with lots of languages, including `Python`, `Javascript`, `CSS`, `HTML5`, `PHP`, and `Ruby`, and I've written far more `Bash` scripts than I'd care to admit. I'm a `Linux` and `Mac` user that mostly lives in Terminal, but I've occasionally played around with `Windows`.
+**Public projects:**
+- MCP servers (joplin-mcp-server)
+- ESP32 firmware (gate controllers, garage sensors)
+- Keyboard LED controllers (c-k68-controller)
+- Async trading clients (python-ctrader)
 
-I'm a big fan of `Docker`, and most of my work is optionally containerised.
+**Interests:** Home automation, infrastructure, embedded systems, algorithmic trading.
 
-I've tinkered with microcontrollers and 3D printers, and you'll notice some of my repositories pertain to that.
-
-I'm always looking for ways to push the boundaries of what's possible, and I'm constantly striving to positively impact the world through code.
-
-If you see a repo here with an open license, feel free to fork it. If you see a mistake somewhere or need some help, feel free to open an issue or submit a pull request.
+Issues and PRs welcome.
